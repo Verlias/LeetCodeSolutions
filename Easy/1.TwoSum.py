@@ -10,5 +10,12 @@ class Solution(object):
         return []
 
 
+'''
+Thought Process
+Time Complexitiy: O(N)
+
+'''
+
+
 
         

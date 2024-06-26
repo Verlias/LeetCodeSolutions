@@ -7,3 +7,11 @@ class Solution:
             hashset.add(n)
         return False
 
+
+
+'''
+Thought Process
+Time Complexitiy: O(N)
+
+
+'''
