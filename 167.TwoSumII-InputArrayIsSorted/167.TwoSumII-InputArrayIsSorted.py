@@ -11,4 +11,3 @@ class Solution(object):
                 first_pointer += 1
             elif sum > target:
                 second_pointer -= 1
-        
