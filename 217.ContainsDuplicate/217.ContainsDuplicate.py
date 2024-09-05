@@ -8,10 +8,3 @@ class Solution:
         return False
 
 
-
-'''
-Thought Process
-Time Complexitiy: O(N)
-
-
-'''
